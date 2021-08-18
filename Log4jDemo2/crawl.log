@@ -1,0 +1,5 @@
+DEBUG	2021-08-02 15:12:40,821	0	com.yash.Log4jDemo2.Log4jTest2	[main]	This is debug :
+INFO	2021-08-02 15:12:40,822	1	com.yash.Log4jDemo2.Log4jTest2	[main]	This is info :
+WARN	2021-08-02 15:12:40,822	1	com.yash.Log4jDemo2.Log4jTest2	[main]	This is warn :
+ERROR	2021-08-02 15:12:40,823	2	com.yash.Log4jDemo2.Log4jTest2	[main]	This is error :
+FATAL	2021-08-02 15:12:40,823	2	com.yash.Log4jDemo2.Log4jTest2	[main]	This is fatal :
